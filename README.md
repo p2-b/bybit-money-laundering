@@ -1,7 +1,7 @@
 # bybit-press
 
 *Malaysian regulator reprimands Bybit over unregistered exchange (31 December 2024)
-*https://www.asiafirst.net/post/malaysian-regulator-reprimands-bybit-over-unregistered-exchange
+https://www.asiafirst.net/post/malaysian-regulator-reprimands-bybit-over-unregistered-exchange
 
 
 *Bybit Fined ₹9.27 Crore for Violating Money Laundering Rules (6 February 2025)
